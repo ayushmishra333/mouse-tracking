@@ -25,7 +25,7 @@ This is a simple web application where the eyes of Tom Cat follow the mouse curs
 1. **Clone the repository**
 
    ```bash
-   git clone https://github.com/yourusername/tom-cat-eyes-follow.git
+   git clone https://github.com/yourusername/mouse-tracking.git
    cd mouse-tracking
    
 2. **Open the Project**
